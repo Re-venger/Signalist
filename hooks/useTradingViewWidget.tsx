@@ -31,4 +31,3 @@ const useTradingViewWidget = (
 };
 
 export default useTradingViewWidget;
-export default useTradingViewWidget;
